@@ -6,7 +6,6 @@
 
 A modern Python application for covert communication through images using LSB (Least Significant Bit) steganography.
 
-![Application Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -16,10 +15,3 @@ A modern Python application for covert communication through images using LSB (L
 - 📸 **Image previews** before processing
 - ⚡ **Fast processing** with NumPy optimizations
 - 📁 Supports **PNG & JPEG** formats
-
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Image-Steganography-Tool.git
-cd Image-Steganography-Tool
